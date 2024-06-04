@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to right top,green 40%,blue);
+    opacity: 0.8;
+}
+.box1{ 
+    background-color: azure;
+    height: 500px;
+    width: 700px;
+    position: absolute;
+    left: 450px;
+    top: 170px;
+}
+h1{
+    padding-top: 50px;
+    padding-left: 40px;
+    font-family: sans-serif;
+    font-weight: 400px;
+}
+#input1{
+    border: none;
+    height: 40px;
+    width: 250px;
+    background-color: rgba(105, 105, 105, 0.232);
+}
+.div1{
+    padding: 40px;
+}
+#input2{
+    padding-inline-end: 350px;
+    border: none;
+    height: 40px;
+    width: 250px;
+    background-color: rgba(105, 105, 105, 0.232);
+}
+.div2{
+    padding-inline-start: 40px;
+}
+
+#b1{
+    padding-inline-end: 350px;
+    border: none;
+    height: 40px;
+    width: 250px;
+    background-color: rgba(105, 105, 105, 0.232);
+}
+.div3{
+    margin-top: 30px;
+    padding-inline-start: 40px;
+}
+
+.box2{
+    border-radius: 0px;
+    padding-left: 300px;
+    padding-top: 40px;
+}
+button{
+    font-weight: 200px;
+    color: white;
+    border: 0px;
+    height: 40px;
+    width: 100px;
+    background: linear-gradient(to right ,blue,green);
+}
+span{
+    margin-inline-start: 220px;
+}
+#input11{
+    margin-inline-start:95px;   
+    border: none;
+    height: 40px;
+    width: 250px;
+    background-color: rgba(105, 105, 105, 0.232);
+}
